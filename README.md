@@ -1,4 +1,4 @@
-#Score에서 다른 Score 호출하기 Test Code
+# Score에서 다른 Score 호출하기 Test Code
 
 > Score A에서 Score B를 호출할 떄
 
